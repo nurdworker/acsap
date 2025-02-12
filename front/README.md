@@ -1,6 +1,6 @@
 # ACSAP
 
-A serverless vocabulary memorization website built on AWS Lambda.
+An application for studying multiple-choice questions.
 
 📢 **한국인 분들은 블로그 보시면 됩니다. 훨씬 정리 잘 되어 있어요!**
 👉 [블로그 링크](https://blog.nurd.work/352)

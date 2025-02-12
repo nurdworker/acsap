@@ -1,6 +1,6 @@
 # ACSAP
 
-An application for studying multiple-choice questions.
+An application for studying multiple-choice questions. (similar to VCE)
 
 📢 **한국인 분들은 블로그 보시면 됩니다. 훨씬 정리 잘 되어 있어요!**
 👉 [블로그 링크](https://blog.nurd.work/352)
@@ -8,7 +8,7 @@ An application for studying multiple-choice questions.
 Copyright (c) 2025 Nurd Worker. All rights reserved.
 Contact: nurdworker@gmail.com
 
-### 🎬 Implementation Advanced Version Video:
+### 🎬 Implementation Video:
 
 - 🎥[Video Link_korean](https://youtu.be/gWS7EZV8OXM)
 

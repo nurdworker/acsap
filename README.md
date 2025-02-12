@@ -8,7 +8,7 @@ An application for studying multiple-choice questions.
 Copyright (c) 2025 Nurd Worker. All rights reserved.
 Contact: nurdworker@gmail.com
 
-### 🎬 Implementation Advanced Version Video:
+### 🎬 Implementation Video:
 
 - 🎥[Video Link_korean](https://youtu.be/gWS7EZV8OXM)
 
